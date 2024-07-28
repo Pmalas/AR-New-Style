@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 16ea48897183b9e4e8d1d63fc698d733
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a39d71cfaf7d6a94f8d12631e8437ea4
+  - enabled: 1
+    path: Assets/Scenes/Cara Scan Brosur.unity
+    guid: dcc53faa4e20f124388b295166afb345
+  - enabled: 1
+    path: Assets/Scenes/Info sekolah.unity
+    guid: dd73ac45a0aa51d47bc658984564ae33
+  - enabled: 1
+    path: Assets/Scenes/Info PPDB.unity
+    guid: 14c59ff469139d942ae26cd9e3f81bda
+  - enabled: 1
+    path: Assets/Scenes/Info jurusan.unity
+    guid: 51bcba33a9a58004d8909fd1c067f87d
+  - enabled: 1
+    path: Assets/Scenes/Scan Brosur AR.unity
+    guid: 133b424eb1ffec74cba8a1cb18cf9d59
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ad105cf9256d5a748be9ffedd2e0b8c2, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: c3d90179d984dd14a95a9f9e086bdf34, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 2b61aff7d47ea33429fdade72aa5385d, type: 2}
