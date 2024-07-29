@@ -3,7 +3,17 @@ guid: b2723cb454df70b488bb51c3c2f2d5b7
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keran
+    second: {fileID: 2100000, guid: f151457c04be53147a85138a2a79e198, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture bangunan
+    second: {fileID: 2100000, guid: 2f06e5cda9ab17549842a613f56b19d8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
